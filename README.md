@@ -6,11 +6,11 @@ Bu web sitesi, SASS'ın temel özelliklerini ve kullanımını açıklayarak kul
 
 <ul>
 <li>Css Nedir ? 
-<p> CSS`in tanımının yapıldığı bölümdür. <p></li>
+
 <li>Sass Nedir ?
-<p>Sass`in tanımının yapıldığı bölümdür.  </li>
+
 <li>Sass Ile Ilgili Hersey 
-<p> Sass Ile ilgili açıklamalar yapılmıştırç <p></li>
+
 <li>Kayıt Ol</li>
 </ul>
 
